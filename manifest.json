@@ -1,0 +1,16 @@
+{
+    "name": "Love Match Calculator",
+    "short_name": "LoveCalc",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffc0cb",
+    "theme_color": "#ff69b4",
+    "icons": [
+      {
+        "src": "love_icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+
